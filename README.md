@@ -1,2 +1,2 @@
-# tank-ono
+# Tank ONO
 Tank ONO prices
